@@ -80,3 +80,33 @@ Simulation models  has 4 components:
 
 * *discrete event simulation* in which the central assumption is that the system changes instantaneously in response to certain discrete events 
 
+
+
+## Agent-based modeling and simulation (ABMS)
+
+
+
+## Simulation Tools
+
+### OMNeT++
+
+* Discrete Event Simulator
+* OMNeT++ is an extensible, modular, component-based C++ simulation library and framework, primarily for building network simulators.
+* https://omnetpp.org
+
+### CloudSim 
+
+* A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services
+
+* https://github.com/Cloudslab/cloudsim
+
+### iFogSim
+
+* Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments
+* https://github.com/Cloudslab/iFogSim
+
+### The Repast Suite
+
+* open source agent-based modeling and simulation platforms
+* https://repast.github.io
+
