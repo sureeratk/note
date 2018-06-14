@@ -84,7 +84,7 @@ Simulation models  has 4 components:
 
 ## Agent-based modeling and simulation (ABMS)
 
-
+ 
 
 ## Simulation Tools
 
@@ -109,4 +109,32 @@ Simulation models  has 4 components:
 
 * open source agent-based modeling and simulation platforms
 * https://repast.github.io
+* Status : last updated 2018
+
+### DKF (HLA Development Kit)
+
+* a *software framework (the DKF)* for the development in Java of HLA Federates
+* https://github.com/SMASH-Lab/HLA-Development-Kit
+* HLA 1.3 and IEEE-1516e supported
+* status : last updated 2017
+
+### portico 
+
+* an open source, cross-platform, fully supported HLA RTI implementation
+* https://github.com/openlvc/portico
+* HLA 1.3 and IEEE-1516e supported
+* status : active (2018)
+
+### HLA Listener
+
+* An introduction to HLA simulation and HLA Listener
+* https://www.codeproject.com/Articles/994486/HLA-Listener
+
+
+
+### Related Works
+
+[1] 	X. Zeng, S. K. Garg, P. Strazdins, P. P. Jayaraman, D. Georgakopoulos, and R. Ranjan, “IOTSim: A simulator  		for analysing IoT applications,” *Journal of Systems Architecture*, vol. 72, pp. 93–107, Jan. 2017.
+
+[2] G. D’Angelo, S. Ferretti, and V. Ghini, “Modeling the Internet of Things: a simulation perspective,” in *2017 International Conference on High Performance Computing Simulation (HPCS)*, 2017, pp. 18–27.
 
