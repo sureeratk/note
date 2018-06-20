@@ -10,7 +10,7 @@
 
   
 
-## Kubeernates 
+## Kubeernates (19/6/18) 
 
 Src: https://github.com/domecloud/k9s-beer-talk
 
@@ -68,4 +68,3 @@ Src: https://github.com/domecloud/k9s-beer-talk
 - Split brain
 - funnel
 - Openresty 
-
