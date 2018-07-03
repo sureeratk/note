@@ -8,7 +8,9 @@
 
 * IoT refers to “a world-wide network of interconnected objects uniquely addressable, based on standard communication protocols”
 
-  
+Source: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781118647059.ch1
+
+* The internet of things (IoT) aims at closing the gap between objects in the material world, the “things,” and their logical representation in information systems. 
 
 ## Cloud IoT
 
@@ -54,5 +56,5 @@
 * Computation
   * IoT devices have limited processing and energy resources
   * Cloud offers virtually unlimited processing capabilities and an on-demand usage model.
-* Scope
-  * 
+* 
+
