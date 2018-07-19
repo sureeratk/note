@@ -11,3 +11,21 @@ wunca 37th  Jul 18
 * Between anyone
 * clearing complete almost immediately 
 
+## What is blockchain
+
+* keeping them consistent via consensus with algorithm
+* Use UTXO model to track database state
+* Use *Byzantine Fault Tolerance* in distributed and decentralized systems
+
+##  Zero knowledge 
+
+* aka zero knowledge proof (ZKP)
+
+* ZK-SNARK
+
+* ZK-SPARK
+
+  
+
+
+
